@@ -26,7 +26,7 @@ This repository serves as a portfolio and documentation hub for my web developme
 - Client management
 - Financial reporting
 
-**Technologies**: (To be documented)
+**Technologies**: To be added
 
 **Status**: Active development
 
@@ -37,12 +37,13 @@ This repository serves as a portfolio and documentation hub for my web developme
 To add a new project to this showcase:
 
 1. Create a new section under the Projects heading
-2. Include the project name as a heading (###)
-3. Add a brief description
-4. List key features or highlights
-5. Mention technologies used
-6. Include the current status (Active, Completed, Archived, etc.)
+2. Include the project name as a level 3 heading (use `###` before the project name)
+3. Add a brief description using **Description**: label
+4. List key features or highlights under **Key Features**:
+5. Mention technologies used under **Technologies**:
+6. Include the current status under **Status**: (Active, Completed, Archived, etc.)
 7. Add links to live demos or repositories when available
+8. Use a horizontal rule (`---`) to separate projects
 
 ## Contact
 
